@@ -1,0 +1,20 @@
+@terraforming_station = 13
+
+entity = {
+	name = "gothic_01_aesthetic_terraform_station_entity"
+	pdxmesh = "gothic_01_terraforming_station_mesh"
+	locator = { name = "part1" position = { 0 0 0 } }
+	locator = { name = "beam1" position = { 0 3 0 } scale = 110 rotation = { 0 -90 0 } }
+	default_state = "idle"
+	state = { name = "idle" state_time = 5
+		start_event = { trigger_once = yes sound = { soundeffect = "amb_terraforming_station_idle_hum" } }
+	}
+	state = { name = "death" state_time = 5 looping = no
+		event = { time = 4.9 particle = "medium_station_explosion_particle" keep_particle = yes trigger_once = yes sound = { soundeffect = "station_explosion_large" } }
+	}
+	scale = 1.0
+	game_data = {
+		size = @terraforming_station
+	}
+	attach = { "beam1" = "terraforming_effect_entity" }
+}
