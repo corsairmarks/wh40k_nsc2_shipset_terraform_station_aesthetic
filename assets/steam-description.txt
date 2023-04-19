@@ -19,7 +19,7 @@ Built for Stellaris version 3.7 "Canis Minor."  Not compatible with achievements
 	[/list]
 [/list]
 [h2]Changelog[/h2]
-See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/]Change Notes[/url]
+See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2964357980]Change Notes[/url]
 
 [h2]Source Code[/h2]
 Hosted on [url=https://github.com/corsairmarks/wh40k_nsc2_shipset_terraform_station_aesthetic]GitHub[/url]
