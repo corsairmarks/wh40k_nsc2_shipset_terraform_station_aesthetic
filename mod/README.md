@@ -22,6 +22,7 @@ Built for Stellaris version 3.7 "Canis Minor."  Not compatible with achievements
 ## Changelog
 
 * 1.0.0 Initial version
+* 1.0.1 Fix compatibility trigger name
 
 ## Source Code
 
