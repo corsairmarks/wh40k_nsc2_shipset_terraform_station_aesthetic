@@ -23,6 +23,7 @@ Built for Stellaris version 3.7 "Canis Minor."  Not compatible with achievements
 
 * 1.0.0 Initial version
 * 1.0.1 Fix compatibility trigger name
+* 1.0.2 Rename files to avoid a conflict with the non-NSC2 add-on
 
 ## Source Code
 

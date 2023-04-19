@@ -8,7 +8,7 @@ tags={
 	"Graphics"
 	"Spaceships"
 }
-version="1.0.1"
+version="1.0.2"
 picture="thumbnail.png"
 supported_version="3.7.*"
 remote_file_id="2964357980"
