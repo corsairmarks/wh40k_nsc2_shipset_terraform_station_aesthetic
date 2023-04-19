@@ -8,7 +8,7 @@ Adds a terraform station definition with an active terraforming beam for graphic
 
 ## Compatibility
 
-Should work with practically everything that also works with the Unofficial fix We are the Imperial Navy NSC2 and Aesthetic Terraform Stations. Also works with WH40K Imperial Navy Shipset NSC2.
+Should work with practically everything that also works with the We are the Imperial Navy NSC2 and Aesthetic Terraform Stations. Also works with Unofficial fix WH40K Imperial Navy Shipset NSC2.
 
 Built for Stellaris version 3.7 "Canis Minor."  Not compatible with achievements, but neither are the dependencies.
 
