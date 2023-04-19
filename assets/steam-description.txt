@@ -1,18 +1,22 @@
 [h1]Overview[/h1]
-Do you like terraform stations from my mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084]Aesthetic Terraform Stations[/url]? Do you also want to have properly-skinned terraform stations for the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2937845657]Unofficial fix WH40K Imperial Navy Shipset NSC2[/url]? Then this mod is for you!
+Do you like terraform stations from my mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084]Aesthetic Terraform Stations[/url]?  Do you also want to have properly-skinned terraform stations for the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2079926133]We are the Imperial Navy NSC2[/url]?  Then this mod is for you!
 
 [h1]Changes[/h1]
 Adds a terraform station definition with an active terraforming beam for graphical culture [b]gothic_01[/b], required for Aesthetic Terraform Stations to apply the correct appearance.
 
 [h2]Compatibility[/h2]
-Should work with practically everything that also works with the Unofficial fix WH40K Imperial Navy Shipset NSC2 and Aesthetic Terraform Stations.
+Should work with practically everything that also works with the We are the Imperial Navy NSC2 and Aesthetic Terraform Stations. Also works with Unofficial fix WH40K Imperial Navy Shipset NSC2, which is derived from the same original mod.
 
-Built for Stellaris version 3.7 "Canis Minor." Not compatible with achievements, but neither are the dependencies.
+Built for Stellaris version 3.7 "Canis Minor."  Not compatible with achievements, but neither are the dependencies.
 
 [h3]Required Dependency Mods[/h3]
 [list]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084]Aesthetic Terraform Stations[/url] enables the very old-school terraform stations as visual markers for terraforming planets
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2937845657]Unofficial fix WH40K Imperial Navy Shipset NSC2[/url] for the graphics and other ship-related code
+[*]One of the following shipsets:
+	[list]
+	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2079926133]We are the Imperial Navy NSC2[/url] for the graphics and other ship-related code
+	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2937845657]Unofficial fix WH40K Imperial Navy Shipset NSC2[/url] for the graphics and other ship-related code
+	[/list]
 [/list]
 [h2]Changelog[/h2]
 See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/]Change Notes[/url]
