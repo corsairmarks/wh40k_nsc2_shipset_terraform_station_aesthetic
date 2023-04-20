@@ -1,7 +1,7 @@
-name="We are the Imperial Navy NSC2 Shipset Add-on: Aesthetic Terraform Station Compatibility"
+name="We are the Imperial Navy NSC2 Add-on: Aesthetic Terraform Station Compatibility"
 dependencies={
 	"Aesthetic Terraform Stations"
-	"We are the Imperial Navy NSC2"
+	"We are the Imperial Navy NSC2 | Shipset for Stellaris 3.7+ and NSC2 Season 7"
 	"Unofficial fix WH40K Imperial Navy Shipset NSC2"
 }
 tags={
